@@ -1,0 +1,31 @@
+# Core
+numpy==1.24.4
+pandas==1.5.3
+matplotlib==3.7.1
+scikit-learn==1.2.2
+jupyterlab==4.0.10
+notebook==7.0.6
+
+# XGBoost
+xgboost==1.7.6
+
+# Reinforcement Learning (Stable Baselines3 + PPO)
+stable-baselines3==2.2.1
+torch==2.0.1
+gym==0.26.2
+
+# Optimization
+optuna==3.5.0
+
+# Visualization (optional)
+seaborn==0.12.2
+plotly==5.15.0
+
+# Time Series support
+statsmodels==0.13.5
+
+# Environment Wrappers (optional for custom Gym)
+gymnasium==0.29.1
+
+# Utilities
+tqdm==4.66.1
